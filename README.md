@@ -1,6 +1,4 @@
 #### Autor: Raimundo Moraga
-#### Rut: 20.072.048-2
-#### Sección: 3
 
 ### Instrucciones
 Para poder ejecutar el programa, se debe escribir el siguiente comando en terminal:
